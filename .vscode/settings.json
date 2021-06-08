@@ -1,2 +1,10 @@
 {
+  "editor.formatOnSave": true,
+
+  "[csharp]": {
+    // [C#의 경우 prettier를 지원하지 않아 아래의 포멧터를 사용합니다.](https://stackoverflow.com/questions/47352611/visual-studio-code-doesnt-format-c-sharp-code)
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  /// [소스 코드 분석기를 활성화 합니다](https://docs.microsoft.com/en-us/visualstudio/code-quality/roslyn-analyzers-overview?view=vs-2019#severity-levels-of-analyzers)
+  "omnisharp.enableRoslynAnalyzers": true
 }

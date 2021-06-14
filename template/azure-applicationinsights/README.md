@@ -8,6 +8,8 @@ ASP.NET Core에서 Azure Application Insights를 사용하기 위한 샘플 코�
 
 > 빠진 코드도 많습니다. 예를 들어 `appsettings.json` , 의존성 등등
 
+빌드에러가 발생하여 확장자를 `.txt` 으로 변경하였습니다.
+
 # 호출 코드
 
 ## Startup.cs

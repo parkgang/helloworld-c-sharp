@@ -1,6 +1,6 @@
 # helloworld-c-sharp
 
-c#을 연습하자
+c#을 연습하면서 알게된 샘플을 저장하고 관리합니다.
 
 # Stack
 

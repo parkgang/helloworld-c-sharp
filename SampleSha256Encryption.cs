@@ -4,6 +4,9 @@ using System.Security.Cryptography;
 
 namespace HelloWorldCSharp
 {
+    /// <summary>
+    /// 비밀번호를 sha256 으로 암호화 후 base64로 인코딩하는 예제입니다.
+    /// </summary>
     public class SampleSha256Encryption
     {
         public static void Run()

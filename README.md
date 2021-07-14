@@ -9,12 +9,16 @@ c#을 연습하자
 
 # 빠른 시작
 
-1. dotnet build
-1. dotnet run
+```shell
+dotnet run
+```
 
 # 프로젝트 생성 방법
 
-1. `dotnet new console --output helloworld-c-sharp`
+repo 이름은 url이 되므로 케밥형식이 베스트이지만 c#은 파스칼 형식의 파일형식과 namespace이 컨벤션이므로
+repo 이름을 파스칼 형식으로 프로젝트 생성 후 repo에 부어버리도록 합니다.
+
+1. `dotnet new console -o HelloWorldCSharp`
 
 # Debug Setting
 

@@ -4,8 +4,10 @@
     {
         static void Main()
         {
-            SampleEmailIdDomainSeparation.Run();
-            SampleSha256Encryption.Run();
+            // SampleEmailIdDomainSeparation.Run();
+
+            // SampleSha256Encryption.Run();
+
             SampleAsynchronous.Run();
         }
     }
